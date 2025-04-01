@@ -1,6 +1,7 @@
 <h1 align="center"> 
-	Acesso aos Dados - Análise de dados com Python: utilizando o ChatGPT como assistente Análise de dados com Python: utilizando o ChatGPT como assistente
+	Análise de dados com Python: utilizando o ChatGPT como assistente.
 </h1>
+<p  align="center">Aula 01 - Acesso aos Dados - </p>
 
 - Utilizar a IA do ChatGPT como assistente;
 - Acessar dados em arquivos JSON com Python;
