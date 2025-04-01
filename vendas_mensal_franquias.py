@@ -13,4 +13,24 @@ df_loja= pd.json_normalize(df['loja'])
 
 df= pd.concat([df, df_vendas , df_loja], axis=1)
 df= df.drop(['vendas', 'loja'], axis=1)
-print(df)
+
+# Verificar as primeiras 5 linhas do DataFrame
+# print(df.head())
+
+# Resumo estatístico das colunas numéricas
+# print(df.describe())
+
+# info()rmações gerais sobre o DataFrame, incluindo tipos de dados e contagem
+# print(df.info())
+
+# Verificar a contagem de valores únicos em cada coluna
+# print(df.nunique())
+
+# Verificar se há valores duplicados no DataFrame
+# print(df.duplicated().sum())
+
+# Verifique se existem valores ausentes por coluna
+# print(df.isnull().sum())
+
+# confirmar as categorias de tamanho_loja
+ 
