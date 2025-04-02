@@ -21,3 +21,28 @@
 - Tratamento de dados duplicados;
 - Correção de dados categóricos; 
 - Funções `dropna` e `fillna`
+
+<p align="center">Aula 04 - Visualização de dados</p>
+
+- Selecionar visualizações que podem ser úteis para o contexto do problema;
+- Utilizar o ChatGPT para gerar ideias e códigos que contribuam com a conclusão do projeto;
+- Criar prompts estruturados para criar visualizações; e
+- Analisar visualizações gráficas.
+
+
+# Análise de Vendas
+
+Esse gráfico ilustra a relação entre o total de vendas por tipo de loja
+
+![Gráfico de Vendas](./img/Figure_1.png)
+
+
+Esse gráfico ilustra a relação entre o total de vendas por categoria de produtos
+
+![Gráfico de Vendas](./img/Figure_2.png)
+
+Esse gráfico ilustra a relação entre o total de vendas por conteúdo de gordura
+
+
+![Gráfico de Vendas](./img/Figure_3.png)
+
